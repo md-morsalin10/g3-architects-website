@@ -268,7 +268,7 @@ footer{
     }
     .sponsors-img{
         grid-template-columns: repeat(3, 1fr);
-        gap: 10px;
+        gap: 11px;
     }
     .facts-container{
         grid-template-columns: repeat(2, 1fr);
